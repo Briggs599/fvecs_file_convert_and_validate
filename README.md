@@ -1,4 +1,4 @@
-# Fvecs File Convertion and Validation
+## Fvecs File Conversion and Validation
 
 A simple script for validating an fvecs file and converting it to a numpy array. Created for a project on deep1b (http://sites.skoltech.ru/compvision/noimi/).
 
